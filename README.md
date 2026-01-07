@@ -70,8 +70,7 @@
 ## 📫 Контакты
 
 - GitHub: [github.com/Freyzan2006](https://github.com/Freyzan2006)
-- Telegram: *по желанию*
-- Email: *по желанию*
+- Telegram Channel: [Full stack dev](https://t.me/fullStackDevelopment55)
 
 ---
 
